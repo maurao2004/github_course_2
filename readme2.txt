@@ -1,4 +1,4 @@
-este é um novo arquivo
-houve uma primeira alteração
-alteração apos versao criada
+este e um novo arquivo
+houve uma primeira alteracao
+alteracao apos versao criada
 nova linha
